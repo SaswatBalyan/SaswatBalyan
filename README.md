@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saswat</h1>
 
-<!--
-**SaswatBalyan/SaswatBalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Computer Science undergrad • Web • ML • Game Dev </i>
+</p>
 
-Here are some ideas to get you started:
+---
+- CSE student who enjoys breaking things just enough to understand them 
+- Interested in AI/ML, web apps, games, IOT
+---
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%2326c1d9+48%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=rank%2Cprs%2Cissues%2Ccontributions"
+    />
+    <img 
+      alt="GitHub Stats" 
+      src="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan"
+    />
+  </picture>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img 
+    src="data:image/*;charset=utf-8;base64,PHN2ZyB2aWV3Qm94PSItMTYgLTMyIDg4MCAxOTIiIHdpZHRoPSI4ODAiIGhlaWdodD0iMTkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZXNjPkdlbmVyYXRlZCB3aXRoIGh0dHBzOi8vZ2l0aHViLmNvbS9QbGF0YW5lL3NuazwvZGVzYz48c3R5bGU+...</svg>"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+<p align="center"> <sub>If you’re here to judge my commits, at least star a repo first.</sub> </p>
