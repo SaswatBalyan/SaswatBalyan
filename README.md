@@ -22,10 +22,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="data:image/*;charset=utf-8;base64,PHN2ZyB2aWV3Qm94PSItMTYgLTMyIDg4MCAxOTIiIHdpZHRoPSI4ODAiIGhlaWdodD0iMTkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZXNjPkdlbmVyYXRlZCB3aXRoIGh0dHBzOi8vZ2l0aHViLmNvbS9QbGF0YW5lL3NuazwvZGVzYz48c3R5bGU+...</svg>"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="./github-user-contribution.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
