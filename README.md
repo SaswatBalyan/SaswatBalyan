@@ -12,11 +12,11 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%2326c1d9+48%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=rank%2Cprs%2Cissues%2Ccontributions"
+      srcset="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%2326c1d9+48%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=prs%2Cissues%2Crank%2Ccontributions"
     />
     <img 
       alt="GitHub Stats" 
-      src="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan"
+      src="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&include_all_commits=true"
     />
   </picture>
 </p>
