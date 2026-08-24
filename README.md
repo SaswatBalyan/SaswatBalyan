@@ -11,11 +11,8 @@
 <p align="center">
   <picture>
    <img src="https://ghstats.dev/api/card?username=SaswatBalyan&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=6.5" alt="GitHub Stats Card" />
-    <img 
-      alt="GitHub Stats" 
-      src="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&include_all_commits=true"
-    />
-    <img src="https://ghstats.dev/api/langs?username=SaswatBalyan&theme=midnight_sakura&hide_title=true&max_langs=12&layout=grid" alt="Top Languages" />
+    
+  <img src="https://ghstats.dev/api/langs?username=SaswatBalyan&theme=midnight_sakura&hide_title=true&max_langs=12&layout=grid" alt="Top Languages" />
   </picture>
 </p>
 
