@@ -13,7 +13,7 @@
    <img src="https://ghstats.dev/api/card?username=SaswatBalyan&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=6.5" alt="GitHub Stats Card" />
   </picture>
 </p>
-<p>
+<p align ="center">
     <img src="https://ghstats.dev/api/langs?username=SaswatBalyan&theme=midnight_sakura&hide_title=true&max_langs=12&layout=grid" alt="Top Languages" />
 </p>
 <p align="center">
