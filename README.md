@@ -10,14 +10,12 @@
 ---
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%2326c1d9+48%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=prs%2Cissues%2Crank%2Ccontributions"
-    />
+   <img src="https://ghstats.dev/api/card?username=SaswatBalyan&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=6.5" alt="GitHub Stats Card" />
     <img 
       alt="GitHub Stats" 
       src="https://pixel-profile.vercel.app/api/github-stats?username=SaswatBalyan&include_all_commits=true"
     />
+    <img src="https://ghstats.dev/api/langs?username=SaswatBalyan&theme=midnight_sakura&hide_title=true&max_langs=12&layout=grid" alt="Top Languages" />
   </picture>
 </p>
 
