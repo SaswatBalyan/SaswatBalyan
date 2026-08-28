@@ -6,7 +6,7 @@
 
 ---
 - CSE student who enjoys breaking things just enough to understand them 
-- Interested in AI/ML, web apps, games, IOT
+- Interested in AI/ML, App dev, games, IOT
 ---
 <p align="center">
   <picture>
