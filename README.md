@@ -14,7 +14,7 @@
   </picture>
 </p>
 <p align ="center">
-    <img src="[https://ghstats.dev/api/langs?username=SaswatBalyan&theme=midnight_sakura&hide_title=true&max_langs=12&layout=grid" alt="Top Languages](https://ghstats.dev/api/langs?username=saswatbalyan&theme=midnight_sakura&hide_title=true&max_langs=12)" />
+    <img src="https://ghstats.dev/api/langs?username=saswatbalyan&theme=midnight_sakura&hide_title=true&max_langs=12" />
 </p>
 <p align="center">
   <img src="./github-user-contribution.svg" alt="GitHub Contribution Snake">
